@@ -17,7 +17,7 @@
 	</organization>
 	<properties>
 		<main.basedir>${basedir}/../..</main.basedir>
-		<tomcat.version>8.0.33</tomcat.version>
+		<tomcat.version>8.5.75</tomcat.version>
 	</properties>
 	<dependencies>
 		<dependency>
