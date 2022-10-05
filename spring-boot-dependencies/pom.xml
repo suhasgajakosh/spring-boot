@@ -123,7 +123,7 @@
 		<junit.version>4.12</junit.version>
 		<liquibase.version>3.5.3</liquibase.version>
 		<log4j2.version>2.7</log4j2.version>
-		<logback.version>1.1.7</logback.version>
+		<logback.version>1.2.7</logback.version>
 		<lombok.version>1.16.10</lombok.version>
 		<mariadb.version>1.4.6</mariadb.version>
 		<mssql-jdbc.version>6.1.0.jre8</mssql-jdbc.version>
@@ -145,7 +145,7 @@
 		<snakeyaml.version>1.17</snakeyaml.version>
 		<solr.version>5.5.3</solr.version>
 		<spock.version>1.0-groovy-2.4</spock.version>
-		<spring.version>5.0.0.BUILD-SNAPSHOT</spring.version>
+		<spring.version>5.2.19.RELEASE</spring.version>
 		<spring-amqp.version>2.0.0.BUILD-SNAPSHOT</spring-amqp.version>
 		<spring-cloud-connectors.version>1.2.3.RELEASE</spring-cloud-connectors.version>
 		<spring-batch.version>3.0.7.RELEASE</spring-batch.version>
