@@ -103,7 +103,7 @@
 		<jaybird.version>2.2.11</jaybird.version>
 		<jboss-logging.version>3.3.0.Final</jboss-logging.version>
 		<jboss-transaction-spi.version>7.3.4.Final</jboss-transaction-spi.version>
-		<jdom2.version>2.0.6</jdom2.version>
+		<jdom2.version>2.0.6.1</jdom2.version>
 		<jedis.version>2.9.0</jedis.version>
 		<jersey.version>2.24</jersey.version>
 		<jest.version>2.0.3</jest.version>
