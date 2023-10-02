@@ -82,7 +82,7 @@
 		<hazelcast.version>3.7.1</hazelcast.version>
 		<hazelcast-hibernate4.version>3.6.5</hazelcast-hibernate4.version>
 		<hazelcast-hibernate5.version>1.0.1</hazelcast-hibernate5.version>
-		<hibernate.version>5.0.11.Final</hibernate.version>
+		<hibernate.version>5.1.17.Final</hibernate.version>
 		<hibernate-validator.version>5.2.4.Final</hibernate-validator.version>
 		<hikaricp.version>2.4.7</hikaricp.version>
 		<hikaricp-java6.version>2.3.13</hikaricp-java6.version>
